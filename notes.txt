@@ -24,6 +24,12 @@ Looks like you've collected a good number of those Crystal Skulls. Could you sho
 
 The [Dark Star Lord's (dark blue)] footprints. Looks like you've found all five. Eight horizontally, and four vertically, with [La-Mulana script (dark blue)] inside. It's safe to assume that this represents some kind of order.
 
+Alsedana:
+
+Ah, you're back. It seems you've defeated the Guardian of Valhalla (dark blue). Did anything strange happen? Did you see some sort of reddish-black mist? That is the source of the conflict itself, and the physical embodiment of the entity causing Eg-Lana to be eternally embroiled in war. It come from dissonacne (dark blue), which has been building up for centuries while the various races fight amongst themseles. The warring races must be relieved of this dissonance, or Eg-Lana cannot be sealed off. Even those still remaining within Eg-Lana no longer know why they continue to fight. The original causes of these wars differ from race to race. We need to find the [cause of the wars between the five remaining races (dark blue)] or we won't be able to find the source of the negativity. I know you probably don't want to hear this, but... It is only you, the 8th Children, free from the memory of the Mother, who can accomplish this. Take this with you. The [Fairy Queen (light blue)] told me that you can use this to absorb the dissonance. I've grown weary from all this talk... Please excuse me, I'd like to rest.
+
+Eg-Lana must be sealed off. Long, long ago, when the Mother -- La-Mulana itself -- fell to this planet, it wanted to return to the sky. However, it's child -- Eg-Lana, born here in this land -- has no such desire. We don't know when it will use its power to destroy us. Mankind must not be forced to live under the fear of destruction. We must strive to improve ourselves, and press on toward the unknown future.
+
 Yggdrasil: 
 
 left room near top: origin seal
@@ -100,6 +106,8 @@ There is a hidden means of binding to an Ankh. The fate of those who bury their 
 
 Hoenir: The [Trickster of Yggdrasil (light blue)] is said to have been created from the life force known as [Jotun (red)], which is said to bring the destruction of Eg-Lana. At some point, he managed to slip into our race. I do not know what he was after, but he continued to cause disaster. By the time we noticed, it was too late. It was no time for the [Aesir (light blue)] and the [Vanir (light blue)] to be fighting. We should have destroyed him first.
 
+Hoenir: There was once a sage among our race known as Mimir (light blue). His wisdom served to help both the Aesir and the Vanir. But in the midst of war, his head was cut off and discarded in the [Shrine of the Frost Giants (dark blue)]. It is said that even now, his head continues to protect the well of [sacred wine of wisdom (green)].
+
 Earth Spear puzzle (got):
 Roots top left
 Valhalla: low left
@@ -144,6 +152,10 @@ Ye who seek the [feather (green)] to carry them to the high lands. Traverse the 
 
 (6th Alfr) Heimdall (red) will watch over the End from his perch atop the Rainbow Bridge. He will demonstrate his power when, and only when, the End begins. The blast of Heimdall's horn will mark the beginning of Yggdrasil's end.
 
+Fairy Queen:
+
+Some of the Alfr, including myself and several seeresses, had the power to see the future. The stone tablets you see around Eg-Lana are the remnants of our plan to seal away the Mother, which was based on these powers. However there are some tablets that have existed there since long before we constructed ours. If we knew which race wrote the inscriptions, they would be easier to decipher.
+
 Immortal Battlefield:
 
 War area: bottom left-ish: a bomb-able area? makes the bomb noise (probably just a totem shooter)
@@ -172,9 +184,9 @@ Acquire the illuminating ring of power (DONE: was chakram trap room)
 
 Here the moon rises. Speak to that effect (from the Fire area entrance, then all the way left).
 
-Yama: Would you rise to the challenge of the [Underworld (blue)]? It is knows as the [Eternal Prison (blue)], as it is the place where sinners were once jailed for all eternity. You will not be able to reach [Hel (red)] without knowledge of the correct path. But I know another path. Cross the [River Styx (blue)] with a [small key (blue)] in hand. Then move on to [Gnipahellir (blue)]. You shall receive a weapon that will do you great servcue if you are to traverse the Undwerworld.
+Yama: Would you rise to the challenge of the [Underworld (blue)]? It is known as the [Eternal Prison (blue)], as it is the place where sinners were once jailed for all eternity. You will not be able to reach [Hel (red)] without knowledge of the correct path. But I know another path. Cross the [River Styx (blue)] with a [small key (blue)] in hand. Then move on to [Gnipahellir (blue)]. You shall receive a weapon that will do you great service if you are to traverse the Underworld.
 
-Soma: Do you know of [Nibiru (dark blue)]? Nibiru is said to be the paradise inhabited by those who came down from the skies. Those who came down from the skies called themselves the [Annunaki (blue)]. It was they who bestowed mankind with knowledge long, long ago. Nibiru is said to be on the other side of the Dark Star.
+Soma: Do you know of [Nibiru (dark blue)]? Nibiru is said to be the paradise inhabited by those who came down from the skies. Those who came down from the skies called themselves the [Anunnaki (blue)] (mispelled as Annunaki). It was they who bestowed mankind with knowledge long, long ago. Nibiru is said to be on the other side of the Dark Star.
 
 (6th Alfr) There exists a gate to the [Spiral Boat (dark blue)]. A gate sealed by nine souls. Somewhere within Eg-Lana.
 
@@ -186,6 +198,8 @@ Kubera: Do you know the place called Takamagahara (dark blue)? Is is the land of
 
 Light of Time (shining on frozen NPC): A machine that is perpetually illuminated by an equally perpetual engine that leverages the power of the ruins. It appears to be used to keep the person within the room sealed there.
 
+(6th Lokapala) The Amarna (light blue) were a race of 5th Children who meddled in the arcane mysteries of life and death in hopes of escaping the Mother's influence. The Ennead (light blue) fight tirelessly to keep them sealed. The Amarna and the Ennead are exiled behind the [Gate of the Dead (dark blue)]. Wherein the light of souls keeps them sealed.
+
 Mulbruk:
 
 Pink, wavy barrier? What are you talking about? Is that even a thing? It sounds so cute! Um... According to these materials, there are [clothes (green)] that will protect you. Like, clothes that let you move up through the sky. Anyway, these clothes protect you from lots of stuff.
@@ -195,6 +209,8 @@ Pink, wavy barrier? What are you talking about? Is that even a thing? It sounds 
 So there's an enemy that can't be taken out with weapons? Hmm. So you have to defeat it in a way that doesn't involve weapons, huh? Like, you have to solve a riddle first. Or you have to attack it mentally, maybe. Or maybe you have to squash it?
 
 [Yuga Ring (dark blue)]? Is that a new technique you learned or something? Like "rolling" or "drilling" or something? So placing a [Weight (green)] will cause spikes to pop up? Like, no matter what? According to these materials, it says that the spikes won't pop up if they're placed on the correct ages.
+
+You've been down here in the ruins for awhile [sic] now, huh? Can you at least read the texts in the ruins? Each character used for numerals in the texts in La-Mulana had its own meaning, you know. They're written on the sigils (green) you have, too. Check it out. That pattern-looking stuff drawn on the Origin Seal. That's "1" in La-Mulana numerals. // "1" is "Origin (dark blue)", "2" is "Birth (dark blue)", "3" is "Life (dark blue)", and "4" is "Death (dark blue)". And... I forgot the rest.
 
 Fire area:
 
@@ -238,13 +254,41 @@ Modgud: The further one goes into the depths of the [Eternal Prison (dark blue)]
 
 (6th Alfr) Ratatoskr (red) flits between Yggdrasil's roots and treetop. But its body is an illusion. Its true body lies in the Underworld (dark blue).
 
-Chaos/Underworld:
+Inanna: When my sister Ereshkigal (light blue) controlled the Underworld (dark blue), I sought her counsel. I was told that the throne of the Underworld could be reached by passing through the seven gates behind Neti (light blue) the gatekeeper. But with each Underworld gate I passed, I lost one of my possessions. After losing everything in my possession and reaching my sister, I was punished for entering the Underworld living. My sister no longer sits upon the throne, so I cannot say what will happen if youn pass through the gates now. But if you have nothing to be taken when you pass through the gates, then you will be given death. Do you understand? When you pass through the [seven gates (dark blue)], you must reach the throne, lest your actions be rendered meaningless. The order by which you must pass through the seven gates of the Underworld changes with each new ruler. Therefore the order which I know would be meaningless. Seek out Neti (light blue), the Underworld gatekeeper. While the ruler may have changed, Neti should still possess some knowledge of the correct order.
+
+Ancient Chaos:
 
 The altar of worship to Echidna lies in her lands, the lands of the Mother.
+
+(1st Kotoamatsu) The path of blood leads to the Underworld (dark blue). A dangerous pitfall, Fallandaforad (dark blue). At the bottom of its maw waits Hraesvelgr, the devourer of corpses.
 
 (Underworld) [Gnipahellir (dark blue)], the path from depths of the Underworld to even greater depths. There rests the guard dog [Garm (dark blue)]. It stands at the ready for a spinner of words.
 
 (1st Kotoamatsu) Do not becry that you do not have what you wish for. What you wish for exists precisely because there is nothing. It is that which cannot be seen by the impatient.
+
+(1st Anunnaki) The poisonous lava will melt even the [Ice Cloak (green)]. Brave it with garb (green) that will withstand any heat.
+
+(1st Anunnaki) At night, the malicious spirit of Ki-sikil-lil-la-ke (red) haunts. Her blue servant and her red servant administer punishment (the bird girl miniboss?)
+
+(1st Anunnaki) The two [blue beasts (dark blue)]. If one is angered one shall close. If both are angered, wisdom will be imparted. (Pretty sure I did this under the Ancient Chaos grailstone.)
+
+Pangu: Our master is the Anunnaki (light blue) king. He is Anu (red), who came from the skies. His majesty keeps him from being touched by ground-dwellers.
+
+Zhuanxu: He who does not pray to Anu (red) cannot call upon Anu. Offer [three prayers (dark blue)] lest your prayers fail to reach Anu.
+
+(1st Anunnaki) There is nothing here. (I think this might refer to the NPC who just steals your money and weights)
+
+(2nd Titan) [Mimir's well (dark blue)] is the well of [divine liquor (green)]. Grant the Mother's () wish with a howl () for that which is missing () (dark blue x3).
+
+(5th Ennead) The morning light turns his body to stone. That [light is etched by the ticking of time (dark blue)]. So henceforth, until the day of light etched by the ticking of time is erased. Alviss (light blue) will sleep.
+
+(1st Kotoamatsu) The mythical beast Anzu (red) hides its form. It waits for the one who can clear the [spiraling light (dark blue)].
+
+(1st Anunnaki) The [Padma Lotus (dark blue)] begets blessing. But blessings will not grace those for whom life (dark blue) is tangled with chaos (dark blue).
+
+(1st Anunnaki) Accept Brahma's (dark blue) four trials. The four faces are a means to see the four ages. Place the correct offering in the correct hand for the correct age. Then, Yggdrasil's all shall be revealed.
+
+(1st Anunnaki) The Sky People, the Anunnaki (light blue), arrived on Nibiru (dark blue). They arrived in a land where people could not live. Among pure chaos, where neither air nor water existed.
 
 Malice:
 
@@ -272,7 +316,7 @@ Dark Lord:
 
 Next to the "hold it high" chest, weird wall with bomb sound when whipped
 
-(5th Amarna) The contents of the chest go to the one who already holds them high.
+(5th Amarna) The contents of the chest go to the one who already holds them high. (was a crystal skull)
 
 Maat's ritual measures the weight of one's heart. Sins must weigh balanced against [Maat's feather (green)]. The body must be innocent, free of excess. Hearts that do not balance the scales will be devoured by [Ammit (blue)].
 
@@ -368,6 +412,32 @@ Shopkeeper: Mekuri software
 
 (3rd Olympian) Where is this?
 
+(Underworld) Amenowakahiko's (light blue) departed wife finds her husband after death. Or rather, a beast of destruction from the Underworld (dark blue) does in her form. A beast that dwells beyong the false gate.
+
+(1st Kotoamatsu) [Takemikazuchi's Room (dark blue)] lies beyond.
+
+(1st Kotoamatsu) From the foot of the wall, toward the sigil (confident this was the Crystal Skull chest)
+
+Izanagi: I went down to the Underworld (dark blue) to see my dead wife. However those who have fallen to the Underworld cannot attain life again. Trembling with terror at the sight of my horribly decayed wife, I sealed off one of the entrances to the Underworld. It lies at the end of a long, long [path to the bottom of the earth (dark blue)]. To break the seal, chant the words of my mantas: Sun (), moon, (), and sea () (dark blue x3). Wait. If you are to venture to the Underworld, find the mirror (green). Within this mirror, made from polished bronze and infused with prayer, lies the power to illuminate the true path. This mirror will allow you to find the gate from which you can leave the Underworld.
+
+Izanagi: I see you have the [Crystal Skulls (green)]. Those were created by the [Sky People (light blue)], the Anunnaki (light blue), and are said to act as the keys to great knowledge. It is said that on each Skull is recorded the plans of the Anunnaki. Be careful with them.
+
+(1st Kotoamatsu) Bear the [small key (dark blue)]. The secret will be laid bare.
+
+(1st Anunnaki) Daji (red) hides the Egg of Creation. The god of creation Brahma's dialogues on the nature of creation. The sight of the egg will stir recollection. And the god will speak again.
+
+Amenotokotachi: [Takamagahara Shrine (dark blue)] was used to seal away the [Sky People (light blue)], the Anunnaki (light blue). However its power has waned, and now their soldiers are making their way here. Be especially cautious of the one called Daji (red), with the power of the chimera. He also guards the machine of knowledge, and the item known as the [Egg of Creation (green)], which he hides on his person.
+
+Amenotokotachi: We Kotoamatsu (light blue) only sealed away the Anunnaki (light blue). We have no intention of fighting them. The Anunnaki themselves are the dissonance of the [1st Children (light blue)]. But they are also the [Sky People (dark blue)]. Behind this branch, in the [Ancient Chaos (dark blue)], are the other 1st Children like us, but who have been turned into Anunnaki soldiers. The Anunnaki themselves are said to reside in the sky. What you seek may not be here in this branch.
+
+(1st Kotoamatsu) The breath that Takemikazuchi (dark blue) left is ablaze. Though it will be swept away by proof of the time of creation.
+
+(1st Anunnaki) The noble Sky People, the Anunnaki (light blue). Divine reckoning will be dealt to those who dare to harm them.
+
+Amano-Iwato Shitateruhime: Ajisukitakahikone (red) is said to take the form of those who appear before him. Once a member of our race, he was a wise man with the ability to control storms (dark blue). But I have heard that upon falling to the Underworld, he lost his storm powers. He may even be especially susceptible to storms now.
+
+(1st Kotoamatsu) The nine eyes will not overlook opposition. They will tolerate standing before the object of your desires, and that alone. (Was this the basement in Ancient Chaos?)
+
 Gate of the Dead:
 
 (5th Ennead) The [Gate of the Dead (dark blue)] was created to seal the Amarna (light blue). It leverages mystic Ennead (light blue) means to warp space. It connects the warped space of the [Red Gate (dark blue)].
@@ -376,9 +446,13 @@ Gate of the Dead:
 
 Thoth: Each generation of Children has been sealed off into the branches to ensure that they do not allow their respective wars to spill over into the outside world. They were sealed away long, long ago, but now, a race of the [6th Children (light blue)] known as the [Lokapala (light blue)] have taken control of Yggdrasil. We have no intention of leaving this place, either. If you plan to seal off Eg-Lana, then I will tell you this: Many things in Eg-Lana have been sealed off with the power of mantras. Most of the powerful mantras are hidden. I know the words used to call upon the mantra of the moon. The word is "Sun" (dark blue), the moon's opposite.
 
+Thoth: I have heard tales of a map (dark blue) containing the locations of all of the mantras. It is said that the location of mantras still lying dormant glow red on this map.
+
+Thoth: Since we 5th Children were of smaller stature than out predecessors, we are know as dwarves (light blue) in Eg-Lana. Back when then power sealing the branches was still weak, there were several dwarves who were able to leave this place. Once of them, Alviss (light blue), was even wiser than I. But those of us who have spent so long living underground are vulnerable to strong light. We are rendered immobile, unless the light is like the blue shadowed light here at the Gate of the Dead.
+
 (5th Ennead) The treasure created by dwarven blacksmiths. The mechanism to it is hidden by the dwarves.
 
-(5th Ennead) One, and one alone, survives.
+(5th Ennead) One, and one alone, survives. (probably refers to vaj puzzle)
 
 (5th Amarna) The answer does not lie with a single footprint.
 
@@ -457,7 +531,7 @@ Baphomet: The younger man started swinging his whip about the moment he saw me. 
 
 (3rd Olympian) The twins protect an ancient key. The cog (green) that turns the great mechanism. The twins protect a beast's jaw.
 
-(3rd Olympian) What's importnat is what's inside. Try sitting. Try placing your hand upon it. (This was axe).
+(3rd Olympian) What's important is what's inside. Try sitting. Try placing your hand upon it. (This was axe).
 
 Snapshots:
 MANTRA software
@@ -466,6 +540,8 @@ The Aesir spoke of the scattered stars // Of what is known as "heaven" // Those 
 Sun: The Ennead spoke of searing light endured by the dwarves // Of what is known as the "sun" // Those who seek, must speak // the name of "Sol"
 
 Moon: Those of the Underworld spoke of a circling ring // Of what is known as the "moon" // Those who seek, must speak // the name of "Mani" (green)
+
+Wind: The Alfr spoke of the passage of the invisible // Of what is known as "wind" // Those who seek, must speak // the name of "Vindr (green)"
 
 SEALS:
 
@@ -492,7 +568,10 @@ Valhalla under lightning boy boss
 Cog:
 
 Immortal Battlefield where we fought the squirrel
+
 Malice where entrance from Heaven is
+
+Takamagahara from Ancient Chaos gate
 
 Monument of Pray:
 1) Don't remember
@@ -548,6 +627,15 @@ Flames frolic in the heavens
 For the mighty have vanished
 For its true form cannot be seen by starlight alone
 
+Part 6
+She sees
+The final land's vortex
+A heavy price being paid
+And then a memory
+Of the final gate being pried upon
+By excessive power and the price it demands
+And murderous, blood-drenched intent.
+
 Dark Lord's Footprints:
 1 Roots
 2 Divine
@@ -556,8 +644,6 @@ Dark Lord's Footprints:
 5 Gate of the Dead
 
 TO-DO:
-Sakit's dissonance
-All the glossaries in La-Mulana
 The bottom of Immortal Battlefield where the life seal is, breakable wall?
-Left area of feather frog?
-Twin's area with feather?
+"We are rendered immobile, unless the light is like the blue shadowed light here at the Gate of the Dead." -> Try changing the light to a blue shade at the bottom of Immortal Battlefield. Hold up a crystal skull? Actually this is refered to the Light of Time, so it probably needs time-stop to deactivate.
+I sealed off one of the entrances to the Underworld. It lies at the end of a long, long [path to the bottom of the earth (dark blue)]. To break the seal, chant the words of my mantas: Sun (), moon, (), and sea () (dark blue x3). <- The pair of blocked exits in Corridor of Blood? Doubtful, but this has got to be somewhere.
