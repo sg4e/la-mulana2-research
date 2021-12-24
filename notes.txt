@@ -24,11 +24,15 @@ Looks like you've collected a good number of those Crystal Skulls. Could you sho
 
 The [Dark Star Lord's (dark blue)] footprints. Looks like you've found all five. Eight horizontally, and four vertically, with [La-Mulana script (dark blue)] inside. It's safe to assume that this represents some kind of order.
 
+The La-Mulana ruins, where each successive race was wiped out, were originally uninhabited. The [6th Children (light blue)] were born from the Tree of Life, created by the [5th Children (light blue)]. The ruins seem to have become inactive since the birth of the 6th Children, who were not created by the Mother herself. The fact that we [7th Children (light blue)] were born from the same Tree of Life as the 6th Children threw a wrench in the Mother's designs. I believe that it was precisely because we were not born directly from the Mother that we were able to conceive a plan for her destruction.
+
 Alsedana:
 
 Ah, you're back. It seems you've defeated the Guardian of Valhalla (dark blue). Did anything strange happen? Did you see some sort of reddish-black mist? That is the source of the conflict itself, and the physical embodiment of the entity causing Eg-Lana to be eternally embroiled in war. It come from dissonacne (dark blue), which has been building up for centuries while the various races fight amongst themseles. The warring races must be relieved of this dissonance, or Eg-Lana cannot be sealed off. Even those still remaining within Eg-Lana no longer know why they continue to fight. The original causes of these wars differ from race to race. We need to find the [cause of the wars between the five remaining races (dark blue)] or we won't be able to find the source of the negativity. I know you probably don't want to hear this, but... It is only you, the 8th Children, free from the memory of the Mother, who can accomplish this. Take this with you. The [Fairy Queen (light blue)] told me that you can use this to absorb the dissonance. I've grown weary from all this talk... Please excuse me, I'd like to rest.
 
 Eg-Lana must be sealed off. Long, long ago, when the Mother -- La-Mulana itself -- fell to this planet, it wanted to return to the sky. However, it's child -- Eg-Lana, born here in this land -- has no such desire. We don't know when it will use its power to destroy us. Mankind must not be forced to live under the fear of destruction. We must strive to improve ourselves, and press on toward the unknown future.
+
+You, the 8th Children, free from the Mother's bondage. You are the embodiment of hope itself. Free from the fear of destruction, and free to go on to wherever you like. I believe that this is precisely how mankind should live. I will leave this world shouldering the burden of having to sentence the Mother to death. None of you shall ever have to bear such a burden.
 
 Yggdrasil: 
 
@@ -80,6 +84,8 @@ Birth seal: bottem left (got)
 Thor: [Jormungand (red)] is the master of serpents. He has been sealed away in the place known as the [Immortal Battlefield (blue)]. Revive the water surrounding the world and use the [golden key (green)] to call upon him. // I, too, once attempted to defeat him, but was no match for the serpent's power. You will struggle unless you borrow the [power of the birds (blue)] moved by a golden key.
 
 Thor: That hammer, Mjolnir (green), was once my own weapon. I have lost my powers, so you are now more worthy of brandishing it. However, it's grip was made too short, and it is yet incomplete. While it cannot be reforged, if you were able to borrow the power of one who can control storms as I can, then you may be able to harness its full power. The lightning shot from it would never fail to hit its mark. Somewhere there is one like me, who can [control storms (dark blue)]. Borrow their power. Only then may you harness the full power of Mjolnir.
+
+Thor: It is said that there exists nothing unknown to the dwarf Alviss (light blue). Before entering his room, chant the words about which you would enquire of him. He will teach you the hidden meaning of those words.
 
 Skogal and Reginlief, maiden custodians of the [rustic and repurposed (blue)].
 
@@ -156,6 +162,8 @@ Fairy Queen:
 
 Some of the Alfr, including myself and several seeresses, had the power to see the future. The stone tablets you see around Eg-Lana are the remnants of our plan to seal away the Mother, which was based on these powers. However there are some tablets that have existed there since long before we constructed ours. If we knew which race wrote the inscriptions, they would be easier to decipher.
 
+The wars among the various races have been raging for tens of thousands of years, and mutual understanding between the fighting factions will never be achieved. But there have been drastic changes over the past few years; the warring races have been attempting to put an end to the fighting. This began from the point at which the Mother's mind transferred to Eg-Lana.
+
 Immortal Battlefield:
 
 War area: bottom left-ish: a bomb-able area? makes the bomb noise (probably just a totem shooter)
@@ -200,6 +208,8 @@ Light of Time (shining on frozen NPC): A machine that is perpetually illuminated
 
 (6th Lokapala) The Amarna (light blue) were a race of 5th Children who meddled in the arcane mysteries of life and death in hopes of escaping the Mother's influence. The Ennead (light blue) fight tirelessly to keep them sealed. The Amarna and the Ennead are exiled behind the [Gate of the Dead (dark blue)]. Wherein the light of souls keeps them sealed.
 
+(6th Alfr) There exists a gate to the [Spiral Boat (dark blue)]. A gate sealed by nine souls. Somewhere within Eg-Lana.
+
 Mulbruk:
 
 Pink, wavy barrier? What are you talking about? Is that even a thing? It sounds so cute! Um... According to these materials, there are [clothes (green)] that will protect you. Like, clothes that let you move up through the sky. Anyway, these clothes protect you from lots of stuff.
@@ -211,6 +221,10 @@ So there's an enemy that can't be taken out with weapons? Hmm. So you have to de
 [Yuga Ring (dark blue)]? Is that a new technique you learned or something? Like "rolling" or "drilling" or something? So placing a [Weight (green)] will cause spikes to pop up? Like, no matter what? According to these materials, it says that the spikes won't pop up if they're placed on the correct ages.
 
 You've been down here in the ruins for awhile [sic] now, huh? Can you at least read the texts in the ruins? Each character used for numerals in the texts in La-Mulana had its own meaning, you know. They're written on the sigils (green) you have, too. Check it out. That pattern-looking stuff drawn on the Origin Seal. That's "1" in La-Mulana numerals. // "1" is "Origin (dark blue)", "2" is "Birth (dark blue)", "3" is "Life (dark blue)", and "4" is "Death (dark blue)". And... I forgot the rest.
+
+A [mirror made of bronze (green)]? I've seen one in the La-Mulana ruins. Your dad had it with him when he sealed La-Mulana. Maybe someone still has it?
+
+That reminds me: in the middle of this here Immortal Battlefield... Inside a big-ass boat is the [Soul Gate (dark blue)]. The one with nine Soul Seals. I wonder how you get inside there? Maybe the entrance is hidden somewhere in the ruins?
 
 Fire area:
 
@@ -256,6 +270,8 @@ Modgud: The further one goes into the depths of the [Eternal Prison (dark blue)]
 
 Inanna: When my sister Ereshkigal (light blue) controlled the Underworld (dark blue), I sought her counsel. I was told that the throne of the Underworld could be reached by passing through the seven gates behind Neti (light blue) the gatekeeper. But with each Underworld gate I passed, I lost one of my possessions. After losing everything in my possession and reaching my sister, I was punished for entering the Underworld living. My sister no longer sits upon the throne, so I cannot say what will happen if youn pass through the gates now. But if you have nothing to be taken when you pass through the gates, then you will be given death. Do you understand? When you pass through the [seven gates (dark blue)], you must reach the throne, lest your actions be rendered meaningless. The order by which you must pass through the seven gates of the Underworld changes with each new ruler. Therefore the order which I know would be meaningless. Seek out Neti (light blue), the Underworld gatekeeper. While the ruler may have changed, Neti should still possess some knowledge of the correct order.
 
+(6th Lokapala) This path is a land of unruly flames. The searing treetop presided over by the giant Surtr (red). Those not born of here have no hope of survival.
+
 Ancient Chaos:
 
 The altar of worship to Echidna lies in her lands, the lands of the Mother.
@@ -274,7 +290,11 @@ The altar of worship to Echidna lies in her lands, the lands of the Mother.
 
 Pangu: Our master is the Anunnaki (light blue) king. He is Anu (red), who came from the skies. His majesty keeps him from being touched by ground-dwellers.
 
+Pangu: The power of the Anunnaki (light blue) has been sought since ancient times. This is because the Anunnaki had bestowed their wisdom upon us incomplete, immature beings. The one able to truly comprehend the intentions of the Anunnaki is known as the [Dark Star Lord (dark blue)]. The shall be called to Nibiru (dark blue) -- the fortress of the Anunnaki, who live on the edges of the Dark Star. It is clear now that the wars between us 1st Children were all caused by the Anunnaki. [The stone tablet on which allegiance to the Anunnaki was pledged, with the power of the stars sealed inside (green)]... You must be selected by the Dark Star Lord to venture to Nibiru, where you can obtain the dissonance (dark blue) of the Anunnaki.
+
 Zhuanxu: He who does not pray to Anu (red) cannot call upon Anu. Offer [three prayers (dark blue)] lest your prayers fail to reach Anu.
+
+Zhuanxu: This, the [Ancient Chaos (dark blue)], is our home. There are places here even we cannot enter. It is said that there lie items necessary for the [Dark Star Lord's (dark blue)] trials. First you must gather all pieces of wisdom. All locations are recorded on the [strange machine (dark blue)] that was brought to this land.
 
 (1st Anunnaki) There is nothing here. (I think this might refer to the NPC who just steals your money and weights)
 
@@ -289,6 +309,8 @@ Zhuanxu: He who does not pray to Anu (red) cannot call upon Anu. Offer [three pr
 (1st Anunnaki) Accept Brahma's (dark blue) four trials. The four faces are a means to see the four ages. Place the correct offering in the correct hand for the correct age. Then, Yggdrasil's all shall be revealed.
 
 (1st Anunnaki) The Sky People, the Anunnaki (light blue), arrived on Nibiru (dark blue). They arrived in a land where people could not live. Among pure chaos, where neither air nor water existed.
+
+(6th Alfr) You who possess all power, heed warning. That excessive power is not to be used.
 
 Malice:
 
@@ -311,6 +333,8 @@ Eurytus: I know the secrets of the Underworld. In the Underworld, there is a fer
 (Underworld) The hidden relic of several generations sleeps in the [Eternal Prison (dark blue). Hidden treasures sealed by a [secret key (dark blue)]. (Key fairy)
 
 (3rd Gigas) We sealed Echidna (red) with our power. If you seek the power to destroy Echidna, defeat the 11 children. The cog (green) will reawaken this land.
+
+(1st Anunnaki) Brahma (dark blue) asked Odin (dark blue), "What is creation?" Odin responded that all was birthed from the remains of the primeval giant Ymir (dark blue): "The glimmer of that which is birthed from death is creation."
 
 Dark Lord:
 
@@ -412,7 +436,7 @@ Shopkeeper: Mekuri software
 
 (3rd Olympian) Where is this?
 
-(Underworld) Amenowakahiko's (light blue) departed wife finds her husband after death. Or rather, a beast of destruction from the Underworld (dark blue) does in her form. A beast that dwells beyong the false gate.
+(Underworld) Amenowakahiko's (light blue) departed wife finds her husband after death. Or rather, a beast of destruction from the Underworld (dark blue) does in her form. A beast that dwells beyond the false gate.
 
 (1st Kotoamatsu) [Takemikazuchi's Room (dark blue)] lies beyond.
 
@@ -496,7 +520,7 @@ Hermes: It is true, I was once hailed as a hero. The snaked twins I captured wer
 
 (3rd Olympian) Typhon (dark blue) will awaken by the two lights. The lights will be cast upon two walls. The light-obstrcting walls will accept the light, and Typhon shall awaken.
 
-(3rd Olympian) Within the belly of the crawling [infernal fiend (dark blue).
+(3rd Olympian) Within the belly of the crawling [infernal fiend (dark blue)].
 
 Orpheus: My harp (green) can bring even those of the Underworld (dark blue) to tears. I once visited the Underworld to see my dead wife. I played her a [song of Paradise (dark blue)].
 
@@ -532,6 +556,28 @@ Baphomet: The younger man started swinging his whip about the moment he saw me. 
 (3rd Olympian) The twins protect an ancient key. The cog (green) that turns the great mechanism. The twins protect a beast's jaw.
 
 (3rd Olympian) What's important is what's inside. Try sitting. Try placing your hand upon it. (This was axe).
+
+Eternal Prison:
+
+(5th Amarna) The lord's throne that ascends to Nibiru (dark blue) is in the [Dark Star Lord's Pyramid (dark blue)]. The words needed to climb into the throne are hidden in footprints. Footprints concealed by the Dark Star Lord.
+
+Neti: I am Neti, former guard of the Underworld. While you must pass through seven gates, as has been law since ancient times, the order in which you must pass through changes with each Underworld deity. However, the words signifying this order have not changed. The order is divine chalice, golden-gleaming wrist guard, lunar breastplate, rustic clothing, golden wings, something repurposed, and a glove of power (7x dark blue). The gates reconstructed by Hel (red) are each inscibed with a different crest. I do not know which crests signify which words.
+
+(Underworld) The [Duat Room (dark blue)] and the Room of Judgment go hand in hand. No life can be guaranteed to those who do not possess the Proof of Judgement (green) (last word only; Judgment is spell 2 different ways on purpose)
+
+(6th Alfr) A rage-filled face warped with murderous intent. They who wield excessive power.
+
+(Underworld) Hel (red) resides on [throne of the Underworld (dark blue)] [sic] in her castle beyond the seven gates. Do not attempt to face her in the nakedness of innocence.
+
+(Underworld) [The Last Gate of Hell (dark blue)] has endured several eras. The gate's decoration was done by Hel's (red) hand. The unadorned gates are also gates to Hell. The first gate will take something from your person.
+
+(Underworld) The immortal giant who takes the form of an eagle, Hraesvelgr (red). His soul, departed from his body, wanders Yggdrasil. Unless his soul can be returned to a body, immortal he shall remain.
+
+Ereshkigal: I know nothing about this dissonance (dark blue) of which you speak, but there are more than one generation of Children living here in the Underworld. This place is an accumulation of the deaths of each generation. No one apart from Hel (red), the incumbent Underworld deity, can control that sheer hatred.
+
+Ereshkigal: The [Sky People (light blue)] appeared during our time. It was thanks to their power that we were able to develop our civilization at an impossible pace, and that power was also what caused us to begin to seek power other than that of the Mother: the Mother was an obstacle in their quest to rule over La-Mulana. Then, they became aware of Eg-Lana. I know that they had prepared some sort of elaborate method for sealing off Eg-Lana. But from then on, I never saw them again.
+
+Ereshkigal: The twins of our race who were captured by the [3rd Children (light blue)]? Our race was thought to have been exterminated by the Mother, but there must be a few survivors, just like myself, here in Eg-Lana. With so few of us left there is nothing we can do. Irrespective of whether those born after us take advantage of the civilization we created, or are destroyed by the Mother we will wait for the destructive End. We have no more reason to remain in this world.
 
 Snapshots:
 MANTRA software
