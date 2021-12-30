@@ -17,3 +17,4 @@ $6::Send, (6th Alfr)
 !6::Send, (6th Lokapala)
 ^!6::Send, Lokapala
 0::Send, (Underworld)
+^0::Send, Underworld
