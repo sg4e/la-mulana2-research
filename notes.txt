@@ -36,6 +36,10 @@ Eg-Lana must be sealed off. Long, long ago, when the Mother -- La-Mulana itself 
 
 You, the 8th Children, free from the Mother's bondage. You are the embodiment of hope itself. Free from the fear of destruction, and free to go on to wherever you like. I believe that this is precisely how mankind should live. I will leave this world shouldering the burden of having to sentence the Mother to death. None of you shall ever have to bear such a burden.
 
+Giltoriyo:
+
+I'm Giltoriyo (light blue), the Philosopher of Wisdom. Since your dad sealed off the La-Mulana ruins, I've been searching the world for items and lifeforms that may have invaded the outside world. Some time after sealing off the ruins, we Philosophers of the 7th Children decided to live here aboveground. Since then, the Lokapala in Eg-Lana jave stolen several relics. It seems they were specifically targeting one of the relics your dad found -- the crystallization of the Mother's power, the [Secret Treasure of Life (green)]. I'll give you this. It was used in a treasure seal known as the [Mulana Jewel (green)]. After it was lost, we were somehow able to retrieve the jewel part alone. It should still retain its power. You can use it to [break curses (dark blue)] on important treasures. Take it with you. I'll stay at Alsedana's home for the time being. I'll oversee the sealing of Eg-Lana in his stead.
+
 Yggdrasil: 
 
 left room near top: origin seal
@@ -116,6 +120,10 @@ Hoenir: The [Trickster of Yggdrasil (light blue)] is said to have been created f
 
 Hoenir: There was once a sage among our race known as Mimir (light blue). His wisdom served to help both the Aesir and the Vanir. But in the midst of war, his head was cut off and discarded in the [Shrine of the Frost Giants (dark blue)]. It is said that even now, his head continues to protect the well of [sacred wine of wisdom (green)].
 
+(1st Anunnaki) The [Kamandalu Water Pot (dark blue)] is tolerance. It is the vessel which will tolerate any battle (dark blue) that provokes chaos (dark blue).
+
+(6th Alfr) A child's heart sleeps in the [Spiral Boat (dark blue)]. The spiral depths are nestled within the deeper, darker depths of the heart. The child's heart is the final gate.
+
 Earth Spear puzzle (got):
 Roots top left
 Valhalla: low left
@@ -167,6 +175,12 @@ Some of the Alfr, including myself and several seeresses, had the power to see t
 The wars among the various races have been raging for tens of thousands of years, and mutual understanding between the fighting factions will never be achieved. But there have been drastic changes over the past few years; the warring races have been attempting to put an end to the fighting. This began from the point at which the Mother's mind transferred to Eg-Lana.
 
 We 6th Children, unlike the 7th Children and those like yourself, are not capable of reproduction. Frey may be my older brother, but that is simply because we were originally created as "brother and sister" -- nothing more. I have not seen my brother since leaving Eg-Lana.
+
+The slightly differently shaped stone tablets you saw in each area are akin to [commemorative monuments (dark blue)], telling the story of the world of Eg-Lana. They are also records left by our race -- records of the final secret in the plan to seal off Eg-Lana. Now, that secret is to be released. I have attached a [sigil to the secret words (dark blue)] inside the tablets. I apologize for the inconvenience, but I am not able to speak the blasphemous words aloud. Please read the plan tablets once again. My race planned the sealing of Eg-Lana. To do this we would have to awaken Eg-Lana once. After many long years of contemplation, we realized the [Sky People's (light blue)] plan for sealing Eg-Lana was a viable option. That this plan was woven around you, an 8th Child, must be fate. Your people will live on in the new era. It is up to you to seal off Eg-Lana lest the entire world be destroyed. In order to seal off Eg-Lana, La-Mulana also had to be sealed off simultaneously. However, no one could have predicted that the Mother would transfer her mind itself -- the 9th Child, her final offsping -- into Eg-Lana. This has brought chaos and confusion to the races remaining in Eg-Lana. The blind obedience to the Mother that is woven into our very being makes it impossible for us to seal off Eg-Lana.
+
+Do you remember the Trickster of Yggdrasil? We Alfr created him from the corpse of one of the giants know as the Jotun (red) that we found in the Shrine of the Frost Giants. We inserted him into the war between the Aesir and the Vanir for the purpose of spreading chaos and discord within Eg-Lana. His very existence was part of the plan to seal off Eg-Lana.
+
+That Beherit (green) you have... I had entrusted it to Alsedana to hold onto till the time came. It was originally a tool used to activate the Corridor of Blood. In order to seal off Eg-Lana, murderous intent directed at the Mother is an absolute requirement. For those of us under the Mother's influence, harboring this ill intent is impossible. Now, the [soul of the Trickster of Yggdrasil (light blue)] is contained inside that Beherit. It has fused with the Ankh and combined with the dissonance released by the Guardians' souls. Collect the dissonance of the five races and the Underworld and the Beherit will manifest murderous intent, making it a key to sealing Eg-Lana.
 
 Immortal Battlefield:
 
@@ -234,6 +248,16 @@ A room in the Dark Star Lord's Mausolem where you get "mashed up"? Mashed up by 
 
 The [Eternal Prison (dark blue)]... That sounds rough. Go through a gate and your stuff gets taken away. So that means... the gates that don't take your things are fake? We don't know where the fake gate leads to, and the Eternal Prison has several entrances, so the starting point is important. We need to investigate that gate.
 
+I lived together with the Philosophers in La-Mulana -- the 7th Children remaining in the ruins. Alsedana was like a grandpa; I loved that guy. He lived such a long life.
+
+Who plays video games on their tablet while exploring?! But real talk: Cool stuff can happen if you load it up together with a game app. Your dad told me about it a long time ago. Things are only gonna get tougher from here on out, so you'd better learn all the tricks you can.
+
+Software combos:
+La-Mulana + La-Mulana 2 = (unknown effect)
+Miracle Witch + Bounce Shot = Weapon Fairy
+Miracle Witch + Mekuri Master = Key Fairy
+Miracle Witch + Future Development Company = "inaudible voices become audible". Maybe someone appears in an empty room of something (dev commentary?)
+
 Fire area:
 
 (5th Amarna:) The secret hidden by the golden rock. Hidden behind the wall pinned by the [golden rock (blue)]. (image)
@@ -258,7 +282,7 @@ Hint stone in Modgud's area that requires double jump (got it)
 
 Mulbruk about hint above: Vidopnoor? Oops. That's hard to pronounce! So you need to defeat him, but don't know where he is? I saw a related stone tablet somewhere! It was sort of like the tip of a treetop. Yggdrashil in Eg-Lana is upside-down, so... that means it'd be at the very bottom!
 
-SUS AF pot + sound in fire atrea bottom
+SUS AF pot + sound in fire area bottom
 
 Sinmara: The power stolen from the [Fairy King (blue)] is mine. The power to control flame lies in [Surtr's Room (dark blue)]. If you desire this power, then bring me a [shining scythe (green)]. Then I shall allow you to enter Surtr's Room.
 
@@ -348,9 +372,17 @@ Porphyrion: Be careful of Orthrus (red). He is no longer one of our race. He is 
 
 Porphyrion: We gigas (light blue) destroyed the remaining survivors of the [2nd Children (light blue)]. We once possessed a tool which allowed us to understand the language of the giants, but it was stolen by Echidna (red).
 
+Alcyoneus: We gigas (light blue) fought for the survival of our race. There is no reason for us to be shut away in this place. We have no desire to fight. We were simply seen as an inconvenience by the Olympians (light blue). Us bearing dissonance? Absurd.
+
+Alcyoneus: You've sealed off Echidna (red)... Now the Typhon (dark blue) system should be unlocked. Go, learn the truth.
+
+(3rd Gigas) Destroy Typhon (dark blue).
+
+(6th Alfr) The Seeress' Prophecy tells of the future. A prophecy of a final battle of which we cannot conceive. A battle that will occur at the final land. Where the sun, moon, and stars watch over the earth.
+
 Dark Lord:
 
-Next to the "hold it high" chest, weird wall with bomb sound when whipped
+Next to the "hold it high" chest, weird wall with bomb sound when whipped (got it, was good item rumiBig)
 
 (5th Amarna) The contents of the chest go to the one who already holds them high. (was a crystal skull)
 
@@ -408,11 +440,11 @@ The giant [Bergelmir (blue)] supports the world of frost. His awakening will mel
 
 From [Balor's (red)] back erupt the seeds of hellfire.
 
-The dissonance of the 2nd Children lies squarely on the Unforgivable Sinner [Sakit's (light blue)] shouldners. His unforgivable sin was to slay one of his own, bringing about the destruction of his race.
+The dissonance of the 2nd Children lies squarely on the Unforgivable Sinner [Sakit's (light blue)] shoulders. His unforgivable sin was to slay one of his own, bringing about the destruction of his race.
 
 Thrmyr: The language of the giants is apparently very close to our own. However due to their enormous stature, our ears cannot make out their words. I've heard there is a [flute (green)] that makes their words intelligible to us.
 
-(Anunnaki) That which is correct goes unscathed. That which is mistaken receives justice by sword.
+(1st Anunnaki) That which is correct goes unscathed. That which is mistaken receives justice by sword.
 
 (2nd Titan) The supernatural being [Balor (red)] awaits beyond the eternally frozen sealed lands. Balor keeps guard over the garb handed down by the [Anunnaki (light blue)]. Those who don the must pass the [pillar of swirling light (blue)], for then neither heat nor cold shall ail them.
 
@@ -423,6 +455,20 @@ Thrmyr: The language of the giants is apparently very close to our own. However 
 Gerd: The [Fairy King (light blue)], in love and enamored with me, passed his own weapon onto me. However I have no use for a [weapon that controls flame (green)]. Once I let it go, a woman named [Sinmara (light blue)] took it away.
 
 Gerd: There are six gates in Eg-Lana known as the [Corridor of Blood (dark blue)]. The star-like decorations above the gates can be turned by dissonance (dark blue). Turning the gates will change the place to which the Corridor of Blood leads. All I know is that this was the work of the [Sky People (light blue)], who visited this land long, long ago.
+
+(6th Lokapala) The Lokapala (light blue) are united by Indra (light blue), a priest who has power over storms.
+
+(2nd Titan) The conflict among the 2nd Children was orchestrated by Abuto. Blame fell entirely on Sakit's (light blue) shoulders, who was banished to the Underworld (dark blue) living. Condemned to have his intestines pecked for eternity.
+
+(6th Alfr) Vidofnir (red) lives at Yggdrasil's peak. At the treetop's highest point.
+
+Mnemosyne: My name is Mnemosyne. Born after the nine ruling siblings, I am the lingering consciousness of the extinct [2nd Children (light blue)]. I shall now leave behind the true history of the giants. The siblings split apart and began to fight each other upon Abuto's (light blue) act of revolt against the Mother. However there was one brother, Sakit (light blue), who questioned the fighting. His older brother Abuto, until then a trusted ally, tricked and used him. Sakit was made to kill his beloved wife Ledo with his own hands. Those living now may have no use for the history of our now-extinct race. However, Sakit deserves to have his terrible story told. As long as someone knows his story, I can rest in peace.
+
+Mnemosyne: The few remaining survivors of the [2nd Children (light blue)] were destroyed by the [3rd Children (light blue)]. The responsibility for punishing Sakit (light blue), who dared to enter the Underworld living, has been passed on to the 3rd Children's Underworld deity.
+
+(1st Anunnaki) Brahma (dark blue) created the world. He sealed the light of creation's origin in a [golden egg (green)]. All was created from the colors of light emanating from the egg. The light the creator (dark blue) deigned to speak of will be unleashed. The offering of the egg. This will make the creator remember.
+
+(2nd Titan) A seal of piled soil rests atop Sakit's (light blue) prison. It will open by the words of Sakit's former association.
 
 Takamagahara:
 
@@ -558,6 +604,7 @@ No. 3: Echidna
 Our final hope, to which we have committed all of our power. Utilizing the fruits of our previous labors, we used the body of one of our own daughters. As with Tiamat, eleven monsters were born, after which they fell into sleep in their larval forms. We shall wait for these children to awaken. We shall wait for the time when they awaken once again to unleash their power. We shall rule over Eg-Lana.
 Computer Memory Bank:
 The chimera technology acquired from the civilization of the 1st Children: Originally, the technology was used to switch the serpentine legs of the 1st Children with those of a different, bipedal being. Then we developed the technology further to apply the mental capacity of yet another being, providing power superior to that of a human. However, chimerafied beings retain part of Nibiru's consciousness. They become soldiers living for the purpose of fulfilling Nibiru's will -- taking control of the stars, and the sealing of La-Mulana and Eg-Lana.
+The system has crashed due to the destruction of the energy source, Echidna's Room. Subsequently, Project Typhon cannot be executed. The Olympian' [sic] seizure of Eg-Lana has been rendered impossible. (Dissonance spawns after)
 
 Baphomet: I am the priestess of this temple. Was it you who awakened Typhon (dark blue)? If you are to travel to the land of the gigas (light blue), the [Hall of Malice (dark blue)], then break down the four pillars of Typhon. Then the seal on the door will open.
 
@@ -610,6 +657,20 @@ Izanami: Among the [Gates to Hell (dark blue)] lies a fake gate. Past the gates 
 Izanami: Those who have died cannot return to the world of the living. Let those who would defy this, whomever [sic] they may be, be warned. The dead may not even gaze upon the world of the living. The living should be grateful simply for being alive.
 
 (Underworld) Stepping through a gate where what you hold is stolen will be counted. But step through a gate where it is not, and we shall not.
+
+Eurydice: Oh, how it takes me back... The notes feel slightly dull and the sounds of fingers on strings is somewhat muted, but this is definitely the sound of my husband's harp. It can't be helped that he himself cannot come to this place, so I thank you. You may already be aware, but while you have been told to pass through the seven gates of the Underworld, the numbers do not match up. There are [fake gates (dark blue)], and well as [hidden gates (dark blue)]. The true gates strip you of your belongings as you pass through. Now, I shall rst in eternal peace. Take care...
+
+(6th Lokapala) Svipdagr (red) asked. For the words that would allow entry to the fortress hidden in the earth. She answered: "The wind () stirs the sea (), and fire () burns the earth ()" (dark blue x4).
+
+Hades: I did indeed take in the Sinner of the [2nd Children (light blue)]. He is said to have been prescribed "living imprisonment", but I do not know whether or not he is still alive. If you so desire, I will open the entrance to the prison. Incant the words [in the embankment (light blue)] above the prison.
+
+Hades: This is the Underworld (dark blue). I know nothing of the living world. But those of my race who remain in Eg-Lana have been cowards since arriving in this place. Forgetting their reasons to live, entrusting their own path to a machine... They would be better off destroyed.
+
+Hades: Now, with the Mother's power gone, we may finally speak our true minds. Those born from the Mother cannot defy her. The Mother's imitation could only have been constructed with power borrowed from one not of this land. What did they seek to gain using false power?
+
+(Underworld) The statue of the guard dog, Garm (dark blue). Incant the words of awakening.
+
+(Underworld) The words of the trials are the words of the lords. The three pillars of light are the lords of the riddles.
 
 Snapshots:
 MANTRA software
@@ -667,34 +728,43 @@ red: caverns in Battlefirld
 green: fireice
 
 The Alfr Seeress' Prophecy (6th Child Alfr):
-Part1
+
+Part 1 (updated)
 Sound fills the air
 Heimdall blows his horn
 Yggdrasil shakes
 A screech whines from the towering, ancient tree
 The Jotun are unleashed.
 Heimdall does not sleep
-He keeps vigilant watch even through the night as the end encroaches
+He keeps vigilant watch even through the night (dark blue) as the end encroaches
 
-Part2
+Part 2 (updated)
 Goddesses live in the roots of Yggdrasil
 Three goddesses who spin time
 The time-spinning goddesses keep the roots of Yggdrasil watered
 The spring is forever protected to keep Yggdrasil alive
 O, three goddess protectors of Yggdrasil
 Don't let the squirrel Ratatoskr get away
-No place it visits is to be missing
+No place it visits is to be missing (dark blue)
 The foul words of the black dragon Nidhogg that "the water has run out"
 Shall reach Hraesvelgr in the treetops
 
-Part 3
+Part 3 (updated)
 The Alfr saw the world of end
 The fall of the mighty
 Its inhabitants scorched away by conflict
 Yddrasil awakens
-Saw the red star that grants a wish that is howled at the final gate
+Saw the red star that grants a wish (dark blue) that is howled (dark blue) at the final gate
 
-Part 4
+Part 4 (updated)
+She sees
+The final land's vortex
+A heavy price being paid
+And then a memory
+Of the final gate being pried upon
+By [excessive power (dark blue)] and the price it demands
+And [murderous, blood-drenched intent (green)]
+(Sidenote: ^ this is surely the stone full of all dissonances)
 
 Part 5
 The Sun has no idea
@@ -707,15 +777,6 @@ Flames frolic in the heavens
 For the mighty have vanished
 For its true form cannot be seen by starlight alone
 
-Part 6
-She sees
-The final land's vortex
-A heavy price being paid
-And then a memory
-Of the final gate being pried upon
-By excessive power and the price it demands
-And murderous, blood-drenched intent.
-
 Dark Lord's Footprints:
 1 Roots
 2 Divine
@@ -724,6 +785,6 @@ Dark Lord's Footprints:
 5 Gate of the Dead
 
 TO-DO:
-Judgement: try emptying all ammo prior.
 Yuga puzzle
 Underworld entrances
+Dark Lord's pyramid puzzle?
