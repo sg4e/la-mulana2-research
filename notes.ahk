@@ -21,3 +21,16 @@ $6::Send, (6th Alfr)
 ^0::Send, Underworld
 =::Send, Eg-Lana
 !=::Send, La-Mulana
+::1c::1st Children
+::2c::2nd Children
+::3c::3rd Children
+::4c::4th Children
+::5c::5th Children
+::6c::6th Children
+::7c::7th Children
+::8c::8th Children
+::9c::9th Children
+::skyp::Sky People
+::ppl::people
+::Ppl::People
+::Mo::Mother
